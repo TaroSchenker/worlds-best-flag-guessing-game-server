@@ -23,4 +23,5 @@ const createHighScore = async (req, res, next) => {
     }
 }
 
-module.exports = {getHighScores, createHighScore  }
+
+module.exports = {getHighScores, createHighScore }
